@@ -1,5 +1,5 @@
 # 💫 About Me:
-. I am proficient in identifying patterns and extracting valuable insights and possess an unbridled passion for Artificial Intelligence with comprehensive knowledge of machine learning concepts and other related technologies.
+Self Learned Data Science Enthusiast. I am proficient in identifying patterns and extracting valuable insights and possess an unbridled passion for Artificial Intelligence with comprehensive knowledge of machine learning concepts and other related technologies.
 
 
 ## 🌐 Socials:
