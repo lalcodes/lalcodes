@@ -15,9 +15,6 @@ Self Learned Data Science Enthusiast. I am proficient in identifying patterns an
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lalcodes&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=lalcodes&icon=2&color=1)](https://visitcount.itsvg.in)
 
