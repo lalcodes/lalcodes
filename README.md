@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalcodes&show_icons=true&locale=en" alt="lalcodes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalcodes&" alt="lalcodes" /></p>
+
